@@ -12,11 +12,11 @@ function MainComponent() {
         />
         <h1 className="font-bold text-lg mb-2">Natsuki NISHIKAWA</h1>
         <p className="text-[#6e6e6e] text-sm font-roboto mb-2">
-          Nagoya University | History | Digital Humanities | CS enthusiast
+          Nagoya University | History | Digital Humanities{/* | CS enthusiast */}
         </p>
-        <p className="text-[#a1a1a1] text-xs font-noto-sans mb-4">
+        {/* <p className="text-[#a1a1a1] text-xs font-noto-sans mb-4">
           卒論ではデータサイエンス手法を取り入れた中世イングランド史研究を進めています!
-        </p>
+        </p> */}
         <div className="flex space-x-2">
           <a
             href="https://twitter.com/nocturnalanrutc"
